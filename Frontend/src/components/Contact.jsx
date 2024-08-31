@@ -46,11 +46,11 @@ const Contact = () => {
           </div>
           <div className="item">
             <h4>Call Us</h4>
-            <p>Call Us: +92-321-1111111</p>
+            <p>Call Us: +91-8957971386</p>
           </div>
           <div className="item">
             <h4>Mail Us</h4>
-            <p>zk@gmail.com</p>
+            <p>party@gmail.com</p>
           </div>
         </div>
         <div className="banner">
